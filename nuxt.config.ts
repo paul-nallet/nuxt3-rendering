@@ -1,9 +1,7 @@
 export default defineNuxtConfig({
-  ssr:false,
+  ssr: false,
   nitro: {
-    prerender:{
-      routes: ['/blog/test']
-    }
+    preset: 'service-worker',
   },
   modules: [
     '@nuxtjs/supabase',
