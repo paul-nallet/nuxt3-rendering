@@ -1,3 +1,3 @@
 <template>
-    salut index
+    <NuxtLink to="/blog/test">Test</NuxtLink>
 </template>

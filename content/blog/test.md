@@ -3,4 +3,4 @@ title: 'Page'
 description: 'meta description of the page'
 ---
 
-test
+Je suis la page de test
